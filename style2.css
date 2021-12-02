@@ -1,0 +1,20 @@
+.edit-table{
+    
+    font-size: medium;
+    text-align: center;
+    
+
+}
+
+.edit-table tr{
+    background: rgba(82, 22, 122, 0.616);
+    font-weight: bold;
+    color: rgb(240, 190, 27); 
+}
+
+.edit-table tr th{
+    background: rgba(50, 14, 75, 0.719);
+    font-weight: bolder;
+    color: rgb(26, 247, 6); 
+}
+
